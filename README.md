@@ -16,6 +16,18 @@ In this project, I built and trained a custom face detection model from the grou
 
 - **Performance**: After extensive training and tuning, the model demonstrated high accuracy in detecting faces across various test cases, including different lighting conditions, angles, and face sizes.
 
+## Technologies Used
+
+- **Albumentations**: Used for image augmentation to improve the robustness of the model by applying various transformations to the training images.
+  
+- **Labelme**: Employed for annotating images, allowing for the precise labeling of face regions in the dataset.
+
+- **OpenCV (cv2)**: Utilized for image processing tasks, such as reading and manipulating images before feeding them into the neural network.
+
+- **TensorFlow & Keras**: TensorFlow was used as the primary deep learning framework, with Keras serving as the high-level API. The `tensorflow.keras.applications` module was used to import the VGG16 architecture as the base network for transfer learning.
+
+- **VGG16**: A pre-trained VGG16 model from the Keras applications library was used as the base network. This model served as the foundation, with additional layers added to tailor it specifically for face detection tasks.
+
 ## Inspiration
 
 This project was inspired by a tutorial video by Nicholas Renotte, titled "Train a Face Detection Model from Scratch," which guided the foundational aspects of building and training a neural network for face detection.
