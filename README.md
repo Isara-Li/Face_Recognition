@@ -1,10 +1,10 @@
 # Face Detection Model
 
-This repository contains a face detection model that I developed from scratch using a neural network. The model is designed to recognize and detect faces in images with high accuracy.
+This repository contains a face detection model that I developed from scratch using a neural network. The model is designed to recognize and detect faces with high accuracy.
 
 ## Project Overview
 
-In this project, I built and trained a custom face detection model from the ground up. The process involved designing a neural network architecture, preprocessing data, and implementing a custom loss function to optimize the model's performance specifically for face detection tasks.
+In this project, I built and trained a custom face detection model from the ground up. The process involved designing a neural network architecture,collecting data, preprocessing data, and implementing a custom loss function to optimize the model's performance specifically for face detection tasks.
 
 ## Key Features
 
@@ -14,7 +14,7 @@ In this project, I built and trained a custom face detection model from the grou
 
 - **Training Process**: The model was trained on a diverse dataset of face images, using techniques such as data augmentation and regularization (e.g., dropout) to improve generalization and prevent overfitting.
 
-- **Performance**: After extensive training and tuning, the model demonstrated high accuracy in detecting faces across various test cases, including different lighting conditions, angles, and face sizes.
+- **Performance**: After extensive training and tuning, the model demonstrated reasonable accuracy in detecting faces across various test cases, including different lighting conditions, angles, and face sizes.
 
 ## Technologies Used
 
@@ -31,12 +31,6 @@ In this project, I built and trained a custom face detection model from the grou
 ## Inspiration
 
 This project was inspired by a tutorial video by Nicholas Renotte, titled "Train a Face Detection Model from Scratch," which guided the foundational aspects of building and training a neural network for face detection.
-
-## Files Included
-
-- **FaceRec.ipynb**: A Jupyter notebook detailing the entire model development process, including data preprocessing, neural network architecture, custom loss function implementation, training, and evaluation.
-
-- **Model Weights**: Pre-trained weights for the model are included, allowing for direct usage or further fine-tuning based on specific requirements.
 
 ## How to Use
 
