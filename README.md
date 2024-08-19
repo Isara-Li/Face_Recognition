@@ -16,7 +16,7 @@ In this project, I built and trained a custom face detection model from the grou
 
 - **Performance**: After extensive training and tuning, the model demonstrated reasonable accuracy in detecting faces across various test cases, including different lighting conditions, angles, and face sizes.
 
-## Technologies Used
+## Technologies & Tools Used
 
 - **Albumentations**: Used for image augmentation to improve the robustness of the model by applying various transformations to the training images.
   
