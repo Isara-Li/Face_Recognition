@@ -2,7 +2,7 @@
 
 This repository contains a face detection model that I developed from scratch using a neural network. The model is designed to recognize and detect faces with high accuracy.
 
-Uploading 2024-08-19-17-41-47.mp4…
+https://github.com/user-attachments/assets/aab1b526-1f00-4ff7-aeed-4fe105a38b6f
 
 ## Project Overview
 
