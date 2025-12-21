@@ -2,6 +2,8 @@
 
 This repository contains a face detection model that I developed from scratch using a neural network. The model is designed to recognize and detect faces with high accuracy.
 
+Uploading 2024-08-19-17-41-47.mp4…
+
 ## Project Overview
 
 In this project, I built and trained a custom face detection model from the ground up. The process involved designing a neural network architecture,collecting data, preprocessing data, and implementing a custom loss function to optimize the model's performance specifically for face detection tasks.
